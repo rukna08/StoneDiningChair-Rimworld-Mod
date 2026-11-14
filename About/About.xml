@@ -5,13 +5,16 @@
 	<author>rukna</author>
 	<packageId>rukna.stonediningchair</packageId>
 	<supportedVersions>
-		<li>1.2</li>
+		<li>1.6</li>
+	    <li>1.7</li>
 	</supportedVersions>
-	<description>V1.2
+	<description>V1.6, V1.7
 	    Adds ability to build stone dining chairs.
 
-	    These chairs are neither comfortable nor attractive, and also
-	    take bit more resources to construct, but have higher hitpoints
-	    and no flammability.
+	    Chair Properties:
+            - Not comfortable or attractive.
+            - Take extra resources.
+            - Higher Hitpoints.
+            - No flammability.
 	</description>
 </ModMetaData>
